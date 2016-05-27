@@ -1,0 +1,15 @@
+PODS:
+  - JDStatusBarNotification (1.5.3)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - JDStatusBarNotification
+  - SDWebImage (~> 3.7)
+
+SPEC CHECKSUMS:
+  JDStatusBarNotification: 29413865af11c862c17180610b0f46a21118b412
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+COCOAPODS: 0.39.0
