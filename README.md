@@ -1,5 +1,5 @@
 # AroundToMe
-#AroundToMe – 
+
 Your assistant to locate place near you.
 
 AroundToMe helps you to locate place around you without typing a word. You just need to tap a button for a place you are looking for and you get list of places around you with map pointing way to that place.
